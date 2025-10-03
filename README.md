@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/b578a5b0-e8a2-48d4-bb59-40fa89635d74
 # EnvCraft 🛠️
 
 A simple **Terminal GUI .env manager** built with **C#**.  
